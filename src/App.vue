@@ -1,7 +1,6 @@
 <template>
   <div>
 <!--    <h1>hello</h1>-->
-<!--    <m-layout></m-layout>-->
 <!--    <m-button></m-button>-->
     <m-page1></m-page1>
   </div>
